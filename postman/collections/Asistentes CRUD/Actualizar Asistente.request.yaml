@@ -1,0 +1,13 @@
+$kind: http-request
+url: http://localhost:4000/api/asistentes/1
+method: PATCH
+body:
+  type: json
+  content: "{\r
+
+    \  \"nombreCompleto\": \"Juan Pérez Actualizado\",\r
+
+    \  \"codigoTicket\": \"EVT20260003\"\r
+
+    }"
+order: 4494050356219767

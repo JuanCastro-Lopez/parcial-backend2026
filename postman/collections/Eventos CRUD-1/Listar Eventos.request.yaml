@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:4000/api/eventos
+method: GET
+order: 1341118233914460

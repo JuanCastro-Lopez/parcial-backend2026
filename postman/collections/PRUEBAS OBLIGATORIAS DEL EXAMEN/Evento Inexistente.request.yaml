@@ -1,0 +1,20 @@
+$kind: http-request
+description: ""
+url: http://localhost:4000/api/asistentes
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"nombreCompleto\": \"Carlos Rodríguez\",\r
+
+    \  \"correo\": \"carlos.rodriguez@example.com\",\r
+
+    \  \"telefono\": \"+57 310 9876543\",\r
+
+    \  \"codigoTicket\": \"EVT9999\",\r
+
+    \  \"eventoId\": 9999\r
+
+    }"
+order: 4380326549831844

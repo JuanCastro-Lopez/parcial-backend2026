@@ -1,0 +1,13 @@
+$kind: http-request
+url: http://localhost:4000/api/eventos/1
+method: PATCH
+body:
+  type: json
+  content: "{\r
+
+    \  \"titulo\": \"Festival de Tecnología 2026 Actualizado\",\r
+
+    \  \"cupoMaximo\": 250\r
+
+    }"
+order: 4177555027169636

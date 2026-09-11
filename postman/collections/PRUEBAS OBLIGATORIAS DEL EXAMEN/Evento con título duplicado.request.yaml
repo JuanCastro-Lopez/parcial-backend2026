@@ -1,0 +1,17 @@
+$kind: http-request
+url: http://localhost:4000/api/eventos
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"titulo\": \"Conferencia de Arquitectura Backend 2026\",\r
+
+    \  \"descripcion\": \"Otro evento con el mismo título\",\r
+
+    \  \"cupoMaximo\": 100,\r
+
+    \  \"estado\": \"ACTIVO\"\r
+
+    }"
+order: 4427712857096894
