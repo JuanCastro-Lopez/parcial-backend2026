@@ -1,3 +1,8 @@
+## Integrantes
+
+**Juan Pablo Castro Lopez**
+**Jhoan Andres Vallejo Arango**
+
 # 🎟️ EventPass API - Primer Examen Parcial Práctico
 
 > **Materia:** Programación Backend  
